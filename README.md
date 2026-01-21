@@ -59,7 +59,10 @@ This project is designed for a 12-week academic semester with the following stru
 - **Weeks 9-10:** Testing & Quality Assurance
 - **Weeks 11-12:** Finalization & Presentation
 
-See the [Capstone Project Plan](./CAPSTONE_PROJECT_PLAN.md) for detailed weekly breakdowns, assessment criteria, and grading rubrics.
+### Instructor Resources
+- **[Capstone Project Plan](./CAPSTONE_PROJECT_PLAN.md)** - Detailed weekly breakdowns and learning objectives
+- **[Grading Rubric](./INSTRUCTOR_GRADING_RUBRIC.md)** - Comprehensive assessment criteria and scoring guidelines
+- **[Weekly Progress Template](./WEEKLY_PROGRESS_TEMPLATE.md)** - Template for students to track progress
 
 ## 🔧 Technical Requirements
 
